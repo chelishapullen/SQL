@@ -1,0 +1,11 @@
+CREATE TABLE store (id integer primary key, name text, price integer, quantity integer);
+
+INSERT into store values
+(1, "jacket",50, 5),
+(2, "dress", 60, 5),
+(3, "blouse", 40, 5),
+(4, "shoes", 70, 5),
+(5, "pants",55,5);
+
+
+--display the amount, price, and quantity of items in my clothing storefront.
