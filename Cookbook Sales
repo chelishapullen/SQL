@@ -1,0 +1,15 @@
+/* Sales fron The Good Girl Food Cookbook */
+
+create table sales (id integer primary key, transaction_date text,
+cookbook text,
+price text,
+payment_type text,
+name text,
+city text,
+state text);
+
+insert into sales (transaction_date, cookbook, price, payment_type, name, city, state) values (1/24/23, 1, 34, visa, kevin, oakland, ca);
+insert into sales (transaction_date, cookbook, price, payment_type, name, city, state) values (1/1/23, 1, 34, visa, millie, castro valley, ca);
+insert into sales (transaction_date, cookbook, price, payment_type, name, city, state) values (12/1/22, 4, 136, mastercard, jazzy, baypoint, ca);
+insert into sales (transaction_date, cookbook, price, payment_type, name, city, state) values (11/15/22, 2, 68, mastercard, chelisha, oakland, ca);
+insert into sales (transaction_date, cookbook, price, payment_type, name, city, state) values ( 10/1/22, 5, 170, amex, andrina, emeryville, ca);
