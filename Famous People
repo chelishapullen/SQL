@@ -1,0 +1,21 @@
+create table persons (id integer primarty key, full name text, age integeer);
+
+insert into persons (full name, age) values (idris elba, 50);
+insert into persons (full name, age) values (Mark Twain, 100);
+insert into persons (full name, age) values (too short, 60);
+insert into persons (full name, age) values (drew barrymore, 47);
+insert into persons (full name, age) values (dnice, 50);
+insert into persons (full name, age) values (elvis presley, 80);
+insert into persons (full name, age) values (kevin costner, 60);
+insert into persons (full name, age) values (jane fonda, 70);
+insert into persons (full name, age) values (sally field, 70);
+insert into persons (full name, age) values (kelly clarkson, 40);
+insert into persons (full name, age) values (gweneth paltrow, 50);
+insert into persons (full name, age) values (judith light, 70);
+insert into persons (full name, age) values (john leguizamo, 50);
+insert into persons (full name, age) values (steph curry, 31);
+insert into persons (full name, age) values (ayesha curry, 30);
+insert into persons (full name, age) values (dramond green, 34);
+insert into persons (full name, age) values (andre igoudala, 35);
+insert into persons (full name, age) values (moses moody, 25);
+insert into persons (full name, age) values (steve kerr, 60);
